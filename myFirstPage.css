@@ -1,0 +1,16 @@
+h1{font-size=20px;
+color:#fff;}
+.header{background-color:blue;
+	height:90px;
+	color:#fff;
+	float:left;}
+.main{background-color:#ff0000;
+	height:600px;
+	color:#fff;}
+.footer{background-color:#000;
+	color:#fff;
+height:90px;}
+li{color:#000000;
+	list-style:none;
+	float:left
+	}
